@@ -1,6 +1,6 @@
 ## Jinyeong Choi
 
-🤍 I'm extrovert person and I'd love to learn something new in open and inquiring mind. Whether academic or not, want to experience many different fields.
+🤍 I'm extrovert person and I'd love to <strong>learn something new in open and inquiring mind</strong>. Whether academic or not, want to <strong>experience many different fields</strong>.
 
 <!-- <img src="https://img.shields.io/badge/표시될 이름-색상?style=for-the-badge&logo=기술스택이름&logoColor=로고색상">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> -->
