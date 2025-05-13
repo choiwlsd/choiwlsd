@@ -14,7 +14,6 @@
     <li>경희대학교 소프트웨어융합대학 학술동아리 디닷컴 회장 <sub>2025. 01. ~ 2025. 12.</sub></li>
     <li>Completion of Silicon Valley Innovation & Startup Program at San Jose University <sub>2025. 01.</sub></li>
     <li>경희대학교 소프트웨어융합대학 학술동아리 디닷컴 총무 <sub>2024. 07. ~ 2024. 12.</sub></li>
-    <li>경희대학교 제2기숙사 생활멘토 <sub>2024. 08. ~ now</sub></li>
     <li>베리어프리 앱 개발 콘테스트 참여 <sub>2024. 04. ~ 2024. 05.</sub></li>
     <li>경희대학교 데이터분석 AI 동아리 KHUDA <sub>2024. 01. ~ 2024. 06.</sub></li>
     <li>뤼튼(Wrtn) 캠퍼스리더 주관 제2회 Generative AI Ideation 참여 <sub>2024. 05.</sub></li>
