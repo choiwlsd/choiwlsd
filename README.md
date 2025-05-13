@@ -15,8 +15,8 @@
 
 <div>
     <h3>🏆 Awards</h3>
-    <li>경희대학교 해커톤 khuthon 최우수상 <small>2025. 05.</small></li>
-    <li>경희대학교 소프트웨어융합대학, 예술디자인대학, 공과대학 연합 해커톤 세모톤 대상 <small>2025. 04.</small></li>
+    - 경희대학교 해커톤 khuthon <strong>최우수상</strong> <small>2025. 05.</small>
+    - 경희대학교 소프트웨어융합대학, 예술디자인대학, 공과대학 연합 해커톤 세모톤 대상 <small>2025. 04.</small>
     <li>Silicon Valley Innovation & Entreprenuership Award Second Prize <small></small></li>
     <li>경희대학교 해커톤 khuthon 우수상 및 인기상 <small>2024. 05.</small></li>
     <li>경희대학교 컴퓨터공학부 Track Study Project 2위 <small>2023. 11.</small></li>
