@@ -10,8 +10,6 @@
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
 </a> -->
 
-박민기
-
 <div>
     <h3>🧑‍💻 Experience</h3>
     <li>경희대학교 소프트웨어융합대학 학생회 새벽 미디어홍보팀장 <sub>2025. 01. ~ 2025. 12.</sub></li>
