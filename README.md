@@ -20,7 +20,10 @@
         <a href="https://github.com/khuda-data" target="_blank">KHUDA</a> <sub>2024. 01. ~ 2024. 06.</sub>
     </li>
     <li>뤼튼(Wrtn) 캠퍼스리더 주관 제2회 Generative AI Ideation 참여 <sub>2024. 05.</sub></li>
-    <li>대학생 IT 연합 동아리 University MakeUs Challenge 6기 WEB파트 <sub>2024. 03. ~ 2024. 08.</sub></li>
+    <li>대학생 IT 연합 동아리 
+        <a href="https://umc.makeus.in/" target="_blank">University MakeUs Challenge</a>  6기 WEB파트 
+        <sub>2024. 03. ~ 2024. 08.</sub>
+    </li>
 </div>
 
 <!-- <li> <strong></strong> <sub></sub></li> -->
