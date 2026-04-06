@@ -18,7 +18,6 @@
 ### 🧑‍💻 Experience
 - 경희대학교 소프트웨어융합대학 학생회 새벽 미디어홍보팀장 <sub>2025. 01. ~ 2025. 12.</sub>
 - 경희대학교 소프트웨어융합대학 학술동아리 디닷컴 회장 <sub>2025. 01. ~ 2025. 12.</sub>
-- Visit CES 2025 in Las Vegas <sub>2025. 01.</sub>
 - Completion of Silicon Valley Innovation & Startup Program at San Jose University <sub>2025. 01.</sub>
 - 경희대학교 제2기숙사 생활멘토 <sub>2024. 08. ~ 2025. 07.</sub>
 - 경희대학교 소프트웨어융합대학 학술동아리 디닷컴 총무 <sub>2024. 07. ~ 2024. 12.</sub>
