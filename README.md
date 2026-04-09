@@ -1,6 +1,6 @@
 # Jinyeong Choi
 
-###  Introduction
+###  ◌ Introduction
 🎓 Undergraduate of Computer Science and Engineering at Kyung Hee University <br>
 ❤️‍🔥 Passionate and Enthusiastic about **tackling new challenges** <br>
 🤖 Trying to experience **overall flow of AI service development** <br>
