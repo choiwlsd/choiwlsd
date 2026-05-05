@@ -1,6 +1,6 @@
 # Jinyeong Choi
 
-###  ◌ Introduction
+###  🔭 Introduction
 🎓 Undergraduate of Computer Science and Engineering at Kyung Hee University <br>
 ❤️‍🔥 Passionate and Enthusiastic about **tackling new challenges** <br>
 🤖 Trying to experience **overall flow of AI service development** <br>
@@ -54,6 +54,7 @@
     <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+    <img src="https://img.shields.io/badge/tailwindCSS-06B6D4?style=for-the-badge&logo=vite&logoColor=white">
     <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white">
