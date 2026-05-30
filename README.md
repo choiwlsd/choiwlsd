@@ -41,6 +41,7 @@
 
 
 ### 💌 Contact
+<br>
 <p align="center">
   <a href="https://instagram.com/_oiwlsx" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" title="Instagram" />
@@ -54,6 +55,7 @@
 </p>
 
 ### 🌱 Stacks
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,pytorch,python,cpp,git" />
 </p>
