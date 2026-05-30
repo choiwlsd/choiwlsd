@@ -41,10 +41,17 @@
 
 
 ### 💌 Contact
-<a href="https://www.instagram.com/_oiwlsx/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
+<p align="center">
+  <a href="https://instagram.com/_oiwlsx" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" title="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/id" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" />
+  </a>
+  <a href="mailto:choiwlsd@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" title="Email" />
+  </a>
+</p>
 
 ### 🌱 Stacks
 <p align="center">
