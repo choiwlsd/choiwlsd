@@ -33,6 +33,7 @@
 
 
 ### 🏆 Awards
+- <a href="https://dacon.io/competitions/open/236693/overview/description" target="_blank">2026 AI·SW중심대학 디지털경진대회: SW부문</a> 우수상 및 인기상</strong> <sub>2026. 08.</sub>
 - 경희대학교 해커톤 khuthon <strong>최우수상</strong> <sub>2025. 05.</sub>
 - 경희대학교 소프트웨어융합대학, 예술디자인대학, 공과대학 연합 해커톤 세모톤 <strong>대상</strong> <sub>2025. 04.</sub>
 - Silicon Valley Innovation & Entreprenuership Award <strong>Second Prize</strong> <sub>2025. 01.</sub>
