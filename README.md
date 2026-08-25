@@ -17,10 +17,12 @@
 
 ### 🧑‍💻 Experience
 - 경희대학교 소프트웨어융합대학 학생회 새벽 미디어홍보팀장 <sub>2025. 01. ~ 2025. 12.</sub>
-- 경희대학교 소프트웨어융합대학 학술동아리 디닷컴 회장 <sub>2025. 01. ~ 2025. 12.</sub>
+- 경희대학교 소프트웨어융합대학 학술동아리 
+    <a href="https://github.com/Dcom-KHU" target="_blank">디닷컴</a> 회장 <sub>2025. 01. ~ 2025. 12.</sub>
 - Completion of Silicon Valley Innovation & Startup Program at San Jose University <sub>2025. 01.</sub>
 - 경희대학교 제2기숙사 생활멘토 <sub>2024. 08. ~ 2025. 07.</sub>
-- 경희대학교 소프트웨어융합대학 학술동아리 디닷컴 총무 <sub>2024. 07. ~ 2024. 12.</sub>
+- 경희대학교 소프트웨어융합대학 학술동아리
+    <a href="https://github.com/Dcom-KHU" target="_blank">디닷컴</a> 총무 <sub>2024. 07. ~ 2024. 12.</sub>
 - 베리어프리 앱 개발 콘테스트 참여 <sub>2024. 04. ~ 2024. 05.</sub>
 - 경희대학교 데이터분석 AI 동아리 
     <a href="https://github.com/khuda-data" target="_blank">KHUDA</a> <sub>2024. 01. ~ 2024. 06.</sub>
