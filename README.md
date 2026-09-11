@@ -1,10 +1,10 @@
-# Jinyeong Choi
+## Jinyeong Choi
 
-###  🔭 Introduction
+<!-- ###  🔭 Introduction
 🎓 Undergraduate of Computer Science and Engineering at Kyung Hee University <br>
 ❤️‍🔥 Passionate and Enthusiastic about **tackling new challenges** <br>
 🤖 Trying to experience **overall flow of AI service development** <br>
-🤝 Love to **collaborate** with people and Beleive the **power of synergy** <br>
+🤝 Love to **collaborate** with people and Beleive the **power of synergy** <br> -->
 
 <!-- <img src="https://img.shields.io/badge/표시될 이름-색상?style=for-the-badge&logo=기술스택이름&logoColor=로고색상">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> -->
