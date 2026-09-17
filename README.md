@@ -16,6 +16,7 @@
 
 
 ### 🧑‍💻 Experience
+- KIST Europe AI Convergence Intern <sub>2026. 08. ~ 2027. 01.</sub>
 - 경희대학교 소프트웨어융합대학 학생회 새벽 미디어홍보팀장 <sub>2025. 01. ~ 2025. 12.</sub>
 - 경희대학교 소프트웨어융합대학 학술동아리 
     <a href="https://github.com/Dcom-KHU" target="_blank">디닷컴</a> 회장 <sub>2025. 01. ~ 2025. 12.</sub>
