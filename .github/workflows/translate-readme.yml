@@ -1,4 +1,4 @@
-name: Sync Korean README
+name: Sync bilingual README
 
 on:
   push:
@@ -22,14 +22,13 @@ jobs:
       - name: Translate README
         uses: choiwlsd/readme-translate-kr-en@v0.2.0
         with:
-          from: en
           source-file: README.md
 
       - name: Commit translated README
         run: |
-          if git diff --quiet -- README.md README.ko.md; then exit 0; fi
+          if [ -z "$(git status --porcelain -- README.md README.en.md README.ko.md)" ]; then exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md README.ko.md
-          git commit -m "docs: sync Korean README"
+          git add README.md README.*.md
+          git commit -m "docs: sync bilingual README"
           git push
