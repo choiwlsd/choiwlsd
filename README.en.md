@@ -28,31 +28,31 @@
 ### 🧑‍💻 Experience
 
 - KIST Europe AI Convergence Internship <sub>2026. 08. ~ 2027. 01.</sub>
-- 경희대학교 소프트웨어융합대학 학생회 새벽 미디어홍보팀장 <sub>2025. 01. ~ 2025. 12.</sub>
-- 경희대학교 소프트웨어융합대학 학술동아리
-  <a href="https://github.com/Dcom-KHU" target="_blank">디닷컴</a> 회장 <sub>2025. 01. ~ 2025. 12.</sub>
+- Morning Media Promotion Team Leader of Kyung Hee University's Software Convergence College Student Council <sub>2025. 01. ~ 2025. 12.</sub>
+- Kyung Hee University Software Convergence College Academic Club
+  <a href="https://github.com/Dcom-KHU" target="_blank">D.com</a> Chairman <sub>2025. 01. ~ 2025. 12.</sub>
 - Completion of Silicon Valley Innovation & Startup Program at San Jose University <sub>2025. 01.</sub>
-- 경희대학교 제2기숙사 생활멘토 <sub>2024. 08. ~ 2025. 07.</sub>
-- 경희대학교 소프트웨어융합대학 학술동아리
-  <a href="https://github.com/Dcom-KHU" target="_blank">디닷컴</a> 총무 <sub>2024. 07. ~ 2024. 12.</sub>
-- 베리어프리 앱 개발 콘테스트 참여 <sub>2024. 04. ~ 2024. 05.</sub>
-- 경희대학교 데이터분석 AI 동아리
+- Life mentor at Kyung Hee University's 2nd dormitory <sub>2024. 08. ~ 2025. 07.</sub>
+- Kyung Hee University Software Convergence College Academic Club
+  <a href="https://github.com/Dcom-KHU" target="_blank">D.com</a> General manager <sub>2024. 07. ~ 2024. 12.</sub>
+- Participating in a barrier-free app development contest <sub>2024. 04. ~ 2024. 05.</sub>
+- Kyung Hee University's data analysis AI club
   <a href="https://github.com/khuda-data" target="_blank">KHUDA</a> <sub>2024. 01. ~ 2024. 06.</sub>
-- 뤼튼(Wrtn) 캠퍼스리더 주관 제2회 Generative AI Ideation 참여 <sub>2024. 05.</sub>
-- 대학생 IT 연합 동아리
-  <a href="https://umc.makeus.in/" target="_blank">University MakeUs Challenge</a> 6기 WEB파트
+- Participation in the 2nd Generative AI Ideation hosted by Luton (Wrtn) Campus Leader <sub>2024. 05.</sub>
+- University student IT association club
+  <a href="https://umc.makeus.in/" target="_blank">University MakeUs Challenge</a> 6th WEB part
   <sub>2024. 03. ~ 2024. 08.</sub>
 
 <!-- <li> <strong></strong> <sub></sub></li> -->
 
 ### 🏆 Awards
 
-- <a href="https://dacon.io/competitions/open/236693/overview/description" target="_blank">2026 AI·SW중심대학 디지털경진대회: SW부문</a> <strong>우수상 및 인기상</strong> <sub>2026. 08.</sub>
-- 경희대학교 해커톤 <a href="https://thon.khlug.org/" target="_blank">khuthon</a> <strong>최우수상</strong> <sub>2025. 05.</sub>
-- 경희대학교 <a href="https://github.com/semothon" target="_blank">소프트웨어융합대학, 예술디자인대학, 공과대학 연합 해커톤 세모톤</a> <strong>대상</strong> <sub>2025. 04.</sub>
-- Silicon Valley Innovation & Entreprenuership Award <strong>Second Prize</strong> <sub>2025. 01.</sub>
-- 경희대학교 해커톤 <a href="https://thon.khlug.org/" target="_blank">khuthon</a> <strong>우수상 및 인기상</strong> <sub>2024. 05.</sub>
-- 경희대학교 컴퓨터공학부 Track Study Project <strong>2위</strong> <sub>2023. 11.</sub>
+- <a href="https://dacon.io/competitions/open/236693/overview/description" target="_blank">2026 AI and SW Centered University Digital Competition: SW Sector</a> <strong>Excellence and popularity awards</strong> <sub>2026. 08.</sub>
+- Kyung Hee University Hackathon <a href="https://thon.khlug.org/" target="_blank">Khuthon</a> <strong>The grand prize</strong> <sub>2025. 05.</sub>
+- Kyung Hee University <a href="https://github.com/semothon" target="_blank">Software Convergence College, College of Art and Design, College of Engineering Association Hackathon Sematon</a> <strong>Grand prize</strong> <sub>2025. 04.</sub>
+- Silicon Valley Innovation & Entrepreneurship Award <strong>Second Prize</strong> <sub>2025. 01.</sub>
+- Kyung Hee University Hackathon <a href="https://thon.khlug.org/" target="_blank">Khuthon</a> <strong>Excellence and popularity awards</strong> <sub>2024. 05.</sub>
+- Track Study Project of Department of Computer Engineering, Kyung Hee University <strong>2nd place</strong> <sub>2023. 11.</sub>
 
 ### 💌 Contact
 
