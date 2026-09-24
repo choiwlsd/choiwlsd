@@ -17,10 +17,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Translate README
-        uses: choiwlsd/readme-translate-kr-en@v0.2.1
+        uses: choiwlsd/readme-translate-kr-en@v0.2.2
         with:
           source-file: README.md
 
