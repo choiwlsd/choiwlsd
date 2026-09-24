@@ -9,13 +9,13 @@
 </p>
 <!-- readme-translate-kr-en:end -->
 
-## Jinyeong Choi
+## 최진영.
 
-<!-- ###  🔭 Introduction
-🎓 Undergraduate of Computer Science and Engineering at Kyung Hee University <br>
-❤️‍🔥 Passionate and Enthusiastic about **tackling new challenges** <br>
-🤖 Trying to experience **overall flow of AI service development** <br>
-🤝 Love to **collaborate** with people and Beleive the **power of synergy** <br> -->
+<!-- ###  소개
+ 경희대학교 컴퓨터공학부 학부 <br>
+❤️ 🔥 **새로운 도전에 대한 열정과 열정** <br>
+ **AI 서비스 개발의 전반적인 흐름을 경험하려고 노력합니다. <br>
+ 사람들과 협업하고 시너지의 힘을 누리는 것을 사랑합니다** <br> -->
 
 <!-- <img src="https://img.shields.io/badge/표시될 이름-색상?style=for-the-badge&logo=기술스택이름&logoColor=로고색상">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> -->
@@ -26,36 +26,36 @@
 </a> -->
 
 
-### 🧑‍💻 Experience
-- KIST Europe AI Convergence Internship <sub>2026. 08. ~ 2027. 01.</sub>
+###   체험.
+- KIST 유럽 AI 융합 인턴십 <sub>2026. 08. ~ 2027. 01.</sub>
 - 경희대학교 소프트웨어융합대학 학생회 새벽 미디어홍보팀장 <sub>2025. 01. ~ 2025. 12.</sub>
 - 경희대학교 소프트웨어융합대학 학술동아리 
-    <a href="https://github.com/Dcom-KHU" target="_blank">디닷컴</a> 회장 <sub>2025. 01. ~ 2025. 12.</sub>
-- Completion of Silicon Valley Innovation & Startup Program at San Jose University <sub>2025. 01.</sub>
-- 경희대학교 제2기숙사 생활멘토 <sub>2024. 08. ~ 2025. 07.</sub>
+    <a href="https://github.com/Dcom-KHU" target="_blank">디닷컴</a> 회장 <sub>2025. 01.~2025. 12.</sub>
+- 산호세대학 실리콘밸리 혁신·창업 프로그램 완료 <sub>2025. 01.</sub>
+- 경희대학교 제2기숙사 생활멘토 <sub>2024. 08.~2025. 07.</sub>
 - 경희대학교 소프트웨어융합대학 학술동아리
     <a href="https://github.com/Dcom-KHU" target="_blank">디닷컴</a> 총무 <sub>2024. 07. ~ 2024. 12.</sub>
 - 베리어프리 앱 개발 콘테스트 참여 <sub>2024. 04. ~ 2024. 05.</sub>
 - 경희대학교 데이터분석 AI 동아리 
     <a href="https://github.com/khuda-data" target="_blank">KHUDA</a> <sub>2024. 01. ~ 2024. 06.</sub>
-- 뤼튼(Wrtn) 캠퍼스리더 주관 제2회 Generative AI Ideation 참여 <sub>2024. 05.</sub>
+- 뤼튼(Wrtn) 캠퍼스리더 주관 제2회 생성 AI 아이디어 참여 <sub>2024. 05.</sub>
 - 대학생 IT 연합 동아리 
-    <a href="https://umc.makeus.in/" target="_blank">University MakeUs Challenge</a>  6기 WEB파트 
+    <a href="https://umc.makeus.in/" target="_blank">대학 메이크업 챌린지</a> 6기 WEB파트 
     <sub>2024. 03. ~ 2024. 08.</sub>
 
 <!-- <li> <strong></strong> <sub></sub></li> -->
 
 
-### 🏆 Awards
-- <a href="https://dacon.io/competitions/open/236693/overview/description" target="_blank">2026 AI·SW중심대학 디지털경진대회: SW부문</a> <strong>우수상 및 인기상</strong> <sub>2026. 08.</sub>
-- 경희대학교 해커톤 <a href="https://thon.khlug.org/" target="_blank">khuthon</a> <strong>최우수상</strong> <sub>2025. 05.</sub>
+### 상.
+- RB_TOKEN_0_20__26 AI·SW중심대학 디지털경진대회: SW부문_RB_TOKEN_1__ <strong>우수상 및 인기상</strong> <sub>2026. 08.</sub>
+- 경희대학교 해커톤 <a href="https://thon.khlug.org/" target="_blank">쿠툰</a> <strong>최우수상</strong> <sub>2025. 05.</sub>
 - 경희대학교 <a href="https://github.com/semothon" target="_blank">소프트웨어융합대학, 예술디자인대학, 공과대학 연합 해커톤 세모톤</a> <strong>대상</strong> <sub>2025. 04.</sub>
-- Silicon Valley Innovation & Entreprenuership Award <strong>Second Prize</strong> <sub>2025. 01.</sub>
-- 경희대학교 해커톤 <a href="https://thon.khlug.org/" target="_blank">khuthon</a> <strong>우수상 및 인기상</strong> <sub>2024. 05.</sub>
-- 경희대학교 컴퓨터공학부 Track Study Project <strong>2위</strong> <sub>2023. 11.</sub>
+- 실리콘밸리 혁신 및 기업가정신상 <strong>제2상</strong> <sub>2025. 01.</sub>
+- 경희대학교 해커톤 <a href="https://thon.khlug.org/" target="_blank">쿠툰</a> <strong>우수상 및 인기상</strong> <sub>2024. 05.</sub>
+- 경희대학교 컴퓨터공학부 트랙 연구 과제 <strong>2위</strong> <sub>2023. 11.</sub>
 
 
-### 💌 Contact
+###  접촉
 <br>
 <p align="center">
   <a href="https://instagram.com/_oiwlsx" target="_blank">
@@ -69,7 +69,7 @@
   </a>
 </p>
 
-### 🌱 Stacks
+###  스택
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,pytorch,python,cpp,git" />
