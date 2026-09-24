@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
 </a> -->
 
-### 🧑‍💻 Experience
+### 🧑‍💻 Experience & Leadership
 
 - KIST Europe AI Convergence Internship <sub>2026. 08. ~ 2027. 01.</sub>
 - 경희대학교 소프트웨어융합대학 학생회 새벽 미디어홍보팀장 <sub>2025. 01. ~ 2025. 12.</sub>
