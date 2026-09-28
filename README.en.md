@@ -47,12 +47,12 @@
 
 ### 🏆 Awards
 
-- <a href="https://dacon.io/competitions/open/236693/overview/description" target="_blank">2026 AI and SW Centered University Digital Competition: SW Sector</a> <strong>Excellence and popularity awards</strong> <sub>2026. 08.</sub>
-- Kyung Hee University Hackathon <a href="https://thon.khlug.org/" target="_blank">Khuthon</a> <strong>The grand prize</strong> <sub>2025. 05.</sub>
-- Kyung Hee University <a href="https://github.com/semothon" target="_blank">Software Convergence College, College of Art and Design, College of Engineering Association Hackathon Sematon</a> <strong>Grand prize</strong> <sub>2025. 04.</sub>
+- <a href="https://dacon.io/competitions/open/236693/overview/description" target="_blank">2026 AI and SW Centered University Digital Competition: SW Sector</a> <strong>Excellence and Popularity Awards</strong> <sub>2026. 08.</sub>
+- Kyung Hee University Hackathon <a href="https://thon.khlug.org/" target="_blank">Khuthon</a> <strong>Top Excellence Prize</strong> <sub>2025. 05.</sub>
+- Kyung Hee University <a href="https://github.com/semothon" target="_blank">Software Convergence College, College of Art and Design, College of Engineering Association Hackathon Sematon</a> <strong>Grand Prize</strong> <sub>2025. 04.</sub>
 - Silicon Valley Innovation & Entrepreneurship Award <strong>Second Prize</strong> <sub>2025. 01.</sub>
-- Kyung Hee University Hackathon <a href="https://thon.khlug.org/" target="_blank">Khuthon</a> <strong>Excellence and popularity awards</strong> <sub>2024. 05.</sub>
-- Track Study Project of Department of Computer Engineering, Kyung Hee University <strong>2nd place</strong> <sub>2023. 11.</sub>
+- Kyung Hee University Hackathon <a href="https://thon.khlug.org/" target="_blank">Khuthon</a> <strong>Excellence and Popularity Awards</strong> <sub>2024. 05.</sub>
+- Track Study Project of Department of Computer Engineering, Kyung Hee University <strong>2nd Prize</strong> <sub>2023. 11.</sub>
 
 ### 💌 Contact
 
