@@ -9,7 +9,9 @@
 </p>
 <!-- readme-translate-kr-en:end -->
 
-<a href="https://ibb.co/GQzX8Bg2"><img src="https://i.ibb.co/QvyZTzsN/Frame-10.png" alt="Frame-10" border="0" width="100%"></a>
+<a href="https://i.ibb.co/QvyZTzsN/Frame-10.png" target="_blank">
+  <img src="https://i.ibb.co/QvyZTzsN/Frame-10.png" alt="Frame-10" border="0" width="100%">
+</a>
 
 <!-- ###  🔭 Introduction   
 🎓 Undergraduate of Computer Science and Engineering at Kyung Hee University <br>
