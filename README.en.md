@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
 </a> -->
 
-### 🧑‍💻 Experience & Leadership 💥
+### 🧑‍💻 Experience & Leadership
 
 - KIST Europe AI Convergence Internship <sub>2026. 08. ~ 2027. 01.</sub>
 - Morning Media Promotion Team Leader of Kyung Hee University's Software Convergence College Student Council <sub>2025. 01. ~ 2025. 12.</sub>
