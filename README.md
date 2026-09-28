@@ -9,9 +9,9 @@
 </p>
 <!-- readme-translate-kr-en:end -->
 
-## Jinyeong Choi
+<a href="https://ibb.co/GQzX8Bg2"><img src="https://i.ibb.co/QvyZTzsN/Frame-10.png" alt="Frame-10" border="0" width="100%"></a>
 
-<!-- ###  🔭 Introduction
+<!-- ###  🔭 Introduction   
 🎓 Undergraduate of Computer Science and Engineering at Kyung Hee University <br>
 ❤️‍🔥 Passionate and Enthusiastic about **tackling new challenges** <br>
 🤖 Trying to experience **overall flow of AI service development** <br>
