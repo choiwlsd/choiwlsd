@@ -30,22 +30,20 @@
 ### 🧑‍💻 Experience & Leadership
 
 - KIST Europe AI Convergence Internship <sub>2026. 08. ~ 2027. 01.</sub>
-- Morning Media Promotion Team Leader of Kyung Hee University's Software Convergence College Student Council <sub>2025. 01. ~ 2025. 12.</sub>
+- Lead of Media Promotion of Kyung Hee University's Software Convergence College Student Council <sub>2025. 01. ~ 2025. 12.</sub>
 - Kyung Hee University Software Convergence College Academic Club
-  <a href="https://github.com/Dcom-KHU" target="_blank">D.com</a> President <sub>2025. 01. ~ 2025. 12.</sub>
+  <a href="https://github.com/Dcom-KHU" target="_blank">D.COM</a> President <sub>2025. 01. ~ 2025. 12.</sub>
 - Completion of Silicon Valley Innovation & Startup Program at San Jose University <sub>2025. 01.</sub>
-- Life mentor at Kyung Hee University's 2nd dormitory <sub>2024. 08. ~ 2025. 07.</sub>
+- Mentor at Kyung Hee University's 2nd dormitory <sub>2024. 08. ~ 2025. 07.</sub>
 - Kyung Hee University Software Convergence College Academic Club
-  <a href="https://github.com/Dcom-KHU" target="_blank">D.com</a> General manager <sub>2024. 07. ~ 2024. 12.</sub>
+  <a href="https://github.com/Dcom-KHU" target="_blank">D.COM</a> General manager <sub>2024. 07. ~ 2024. 12.</sub>
 - Participating in a barrier-free app development contest <sub>2024. 04. ~ 2024. 05.</sub>
 - Kyung Hee University's data analysis AI club
   <a href="https://github.com/khuda-data" target="_blank">KHUDA</a> <sub>2024. 01. ~ 2024. 06.</sub>
-- Participation in the 2nd Generative AI Ideation hosted by Luton (Wrtn) Campus Leader <sub>2024. 05.</sub>
+- Participation in the 2nd Generative AI Ideation hosted by Wrtn Campus Leader <sub>2024. 05.</sub>
 - University student IT association club
   <a href="https://umc.makeus.in/" target="_blank">University MakeUs Challenge</a> 6th WEB part
   <sub>2024. 03. ~ 2024. 08.</sub>
-
-<!-- <li> <strong></strong> <sub></sub></li> -->
 
 ### 🏆 Awards
 
