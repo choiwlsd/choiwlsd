@@ -19,13 +19,6 @@
 🤖 Trying to experience **overall flow of AI service development** <br>
 🤝 Love to **collaborate** with people and Beleive the **power of synergy** <br> -->
 
-<!-- <img src="https://img.shields.io/badge/표시될 이름-색상?style=for-the-badge&logo=기술스택이름&logoColor=로고색상">
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> -->
-
-<!-- 뱃지에 링크 삽입
-<a href="링크" target="_blank">
-    <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
-</a> -->
 
 ### 🧑‍💻 Experience & Leadership
 
@@ -44,7 +37,6 @@
 - University student IT association club
   <a href="https://umc.makeus.in/" target="_blank">University MakeUs Challenge</a> 6th WEB part
   <sub>2024. 03. ~ 2024. 08.</sub>
-
 ### 🏆 Awards
 
 - <a href="https://dacon.io/competitions/open/236693/overview/description" target="_blank">2026 AI and SW Centered University Digital Competition: SW Sector</a> <strong>Excellence and Popularity Awards</strong> <sub>2026. 08.</sub>
