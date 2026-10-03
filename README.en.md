@@ -44,7 +44,7 @@
 - Kyung Hee University <a href="https://github.com/semothon" target="_blank">Software Convergence College, College of Art and Design, College of Engineering Association Hackathon Sematon</a> <strong>Grand prize</strong> <sub>2025. 04.</sub>
 - Silicon Valley Innovation & Entrepreneurship Award <strong>Second Prize</strong> <sub>2025. 01.</sub>
 - Kyung Hee University Hackathon <a href="https://thon.khlug.org/" target="_blank">Khuthon</a> <strong>Excellence and Popularity Awards</strong> <sub>2024. 05.</sub>
-- Track Study Project of Department of Computer Engineering, Kyung Hee University <strong>2nd Prize</strong> <sub>2023. 11.</sub>
+- Track Study Project of Department of Computer Engineering, Kyung Hee University <strong>Second Prize</strong> <sub>2023. 11.</sub>
 
 ### 💌 Contact
 
